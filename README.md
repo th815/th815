@@ -26,7 +26,7 @@
 	<img align="left" src="https://github-profile-trophy.vercel.app/?username=th815&theme=onedark&column=-1&margin-w=15" />
 </p>
 
-[![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=th815&theme=merko&custom_title=th815活动图&hide_border=true&point=FFFFFF&days=50)](https://github.com/th815)
+[![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=th815&theme=merko&custom_title=贡献活动图&hide_border=true&point=FFFFFF&days=50)](https://github.com/th815)
 
 
 
@@ -34,11 +34,11 @@
 
 <p align="left">
 	<!-- ********** A ********** -->
+    <a href="https://www.apple.com" target="_blank"> <img src="	https://www.vectorlogo.zone/logos/apple/apple-icon.svg" alt="apple" height="40"/> </a>
     <a href="https://www.aliyun.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/alibabacloud/alibabacloud-ar21.svg" alt="alibabacloud" height="40"/> </a>
     <a href="https://aws.amazon.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" height="40"/> </a>
-    <a href="https://www.axios.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/axios/axios-icon.svg" alt="axios" height="40"/> </a>
     <!-- ********** B ********** -->
-    <a href="https://bitwarden.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/bitwarden/bitwarden-icon.svg" alt="bitwarden" height="40"/> </a>
+    <a href="https://bitwarden.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/bitwarden/bitwarden-ar21.svg" alt="bitwarden" height="40"/> </a>
     <!-- ********** C ********** -->
 	<a href="https://cloudflare.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/cloudflare/cloudflare-ar21.svg" alt="Cloudflare" height="40"/> </a>
     <!-- ********** D ********** -->
@@ -47,7 +47,8 @@
    	<a href="https://git-fork.com/" target="_blank"> <img src="https://github.com/file-icons/icons/blob/master/svg/Fork.svg" alt="Fork" height="40"/> </a>
     <!-- ********** G ********** -->
 	<a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" height="40"/> </a>
-    <!-- ********** H ********** -->
+	<a href="https://gitlab.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gitlab/gitlab-icon.svg" alt="gitlab" height="40"/> </a>
+	  <!-- ********** H ********** -->
 	<a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" height="40"/> </a>
     <!-- ********** I ********** -->
     <!-- ********** J ********** -->
@@ -74,16 +75,18 @@
 	<!-- ********** R ********** -->
 	<a href="https://redis.io" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" height="40"/> </a>
 	<!-- ********** S ********** -->
-	<a href="https://redis.io" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" height="40"/> </a>
 	<a href="https://nssurge.com/" target="_blank"> <img src="https://nssurge.com/static/media/surge-mac-icon.b58bcbd47e5747ba3284.png" alt="surge" height="40"/> </a>
 	<!-- ********** T ********** -->
 	<a href="https://cloud.tencent.com/" target="_blank"> <img src="https://cloudcache.tencent-cloud.com/qcloud/favicon.ico" alt="tencent-cloud" height="40"/> </a>
-	<a href="https://typora.io/" target="_blank"> <img src="https://github.com/PapirusDevelopmentTeam/papirus-icon-theme/blob/master/Papirus/64x64/apps/typora.svg" alt="typora" height="40"/> </a>
+	<a href="https://typora.io/" target="_blank"> <img src="https://typora.io/img/icon_256x256.png" alt="typora" height="40"/> </a>
 	<a href="https://www.git-tower.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-tower/git-tower-icon.svg" alt="git-tower" height="40"/> </a>
 	<!-- ********** U ********** -->
 	<!-- ********** V ********** -->
 	<!-- ********** W ********** -->
 	<a href="https://www.warp.dev/" target="_blank"> <img src="https://github.com/pheralb/svgl/blob/main/static/library/warp.svg" alt="warp" height="40"/> </a>
+	<a href="https://www.vmware.com/" target="_blank"> <img src="https://github.com/cncf/landscape/blob/master/hosted_logos/vmware.svg" alt="vmware" height="40"/> </a>
+	<a href="https://www.wireshark.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/wireshark/wireshark-ar21.svg" alt="wireshark" height="40"/> </a>
+	<a href="https://github.com/kingToolbox/WindTerm" target="_blank"> <img src="https://github.com/kingToolbox/WindTerm/blob/master/images/WindTerm_icon_1024x1024.png" alt="WindTerm" height="40"/> </a>
 	<!-- ********** X ********** -->
 	<!-- ********** Y ********** -->
 	<!-- ********** Z ********** -->
